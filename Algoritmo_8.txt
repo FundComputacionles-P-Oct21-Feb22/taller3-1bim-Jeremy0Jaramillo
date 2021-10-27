@@ -1,0 +1,10 @@
+1.Inicio
+2.Preguntar por la edad
+3.Preguntar por costo mensual de Netflix
+4.Preguntar por costo mensual de YouTube premium
+5.Preguntar por costo mensual de DropBox
+6.Preguntar por costo mensual de Spotify
+7.Realizar la operación (costo Netflix + costo YouTube + costo DropBox + Costo Spotify)
+8.Si la cantidad de edad es menor a 30, aplicar el 20% de descuento al resultado de la operación
+9.Presentar resultado
+10.Fin

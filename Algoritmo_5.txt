@@ -1,0 +1,8 @@
+1.Inicio
+2.Preguntar por costo de CPU
+3.Preguntar por costo de teclado
+4.Preguntar por costo de pantalla
+5.Preguntar por costo de ratón
+6.Realizar el proceso (costo CPU + costo teclado + costo pantalla + costo ratón)
+7.Presentar el resultado del proceso
+8.Fin

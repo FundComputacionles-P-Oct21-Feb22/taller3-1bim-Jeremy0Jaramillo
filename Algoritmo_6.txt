@@ -1,0 +1,6 @@
+1.Inicio
+2.Preguntar monto del préstamo
+3.Preguntar interés mensual
+4.Realizar el proceso (monto del préstamo/12)*interés mensual
+5.Presentar el resultado del proceso
+6.Fin

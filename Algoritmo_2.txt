@@ -1,0 +1,7 @@
+1.Inicio
+2.Preguntar gasto de primer hijo
+3.Preguntar gasto de segundo hijo
+4.Preguntar gasto de tercer hijo
+5.Realizar la operacion (primer gasto+segundo gasto+ tercer gasto)
+6.Presentar el resultado de la operación
+7.Fin

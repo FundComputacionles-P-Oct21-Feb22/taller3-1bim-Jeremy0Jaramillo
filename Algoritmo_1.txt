@@ -1,0 +1,6 @@
+1.Inicio
+2.Preguntar la altura del triangulo
+3.Preguntar la base del triangulo
+4.Realizar la operación (base*altura)/2
+5.Presentar el resultado de la operación
+6.Fin

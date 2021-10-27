@@ -1,0 +1,6 @@
+1.Inicio
+2.Preguntar el costo por minuto
+3.Preguntar el numero de minutos consumidos en el mes
+4.Realizar la operación (número de minutos*costo de minuto)
+5.Presentar el resultado de la operación.
+6.Fin

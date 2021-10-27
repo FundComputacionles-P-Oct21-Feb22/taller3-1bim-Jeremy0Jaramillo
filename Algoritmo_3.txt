@@ -1,0 +1,5 @@
+1.Inicio
+2.Preguntar por un numero
+3.Si el número no está entre (2-6), mostrar error
+4.Presentar tabla
+5.Fin

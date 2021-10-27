@@ -1,0 +1,8 @@
+1.Inicio
+2.Preguntar por la edad
+3.Preguntar valor del costo por kilovatio/hora
+4.Preguntar el número de kilovatios consumidos en el mes
+5.Realizar el proceso (costo kilovatio/hora*número kilovatios consumidos)
+6.Si el valor de edad es mayor a 65 aplicar el 10% al resultado del proceso
+7.Presentar resultado
+8.Fin
